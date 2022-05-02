@@ -1,0 +1,64 @@
+criar projeto (abra a pasta com o nome nesse estilo nome-nome no vs e copie esse cod)
+
+	npx create-react-app name-name
+
+
+startar a sua aplicação no terminal
+
+	npm start
+
+=====================================================
+
+
+instale a extensao do vs code ES7 pra poder rdar comandos de auto generete elements
+
+rafce   criar uma funcao pra gerar um elemento
+
+
+Install
+Inside VSCode, press Ctrl+P, and enter:
+
+ext install diegolincoln.vscode-styled-components
+
+======================================================
+
+
+Instalar a dependencia dos styled components
+
+	npm install --save styled-components
+	npm i styled-components
+
+Instalar a dependencia dos react router
+
+	npm install react-router-dom
+
+Instalar a dependencia do react icons
+
+	npm install react-icons --save
+
+Instalar a dependencia do react scroll
+
+	npm install react-scroll
+
+
+=======================================================
+
+tente verificar o app.js pois pode estar faltando alguma importacao do modelo 
+
+===================================================
+
+React Project from scratch
+UseState Hook
+Map Method
+IconScout
+Apex Charts
+Framer Motion
+Animated Share Layout
+Material UI table
+Responsive CSS3 designs
+
+
+
+google font ( https://fonts.google.com/specimen/Comfortaa )
+
+npm install react-icons
